@@ -2,7 +2,7 @@
 
 This repository contains a Python project for predicting stock prices using machine learning techniques. The project employs various regression models and performs data preprocessing, feature engineering, and model evaluation to forecast stock prices.
 
-Stock price prediction is a challenging task due to the complex and volatile nature of the financial markets. This project demonstrates how to use historical stock data to build a predictive model using Python. The model predicts future stock prices by analyzing historical trends and applying machine learning algorithms.
+This project demonstrates how to use historical stock data to build a predictive model using Python. The model predicts future stock prices by analyzing historical trends and applying machine learning algorithms.
 
 Data Preprocessing
 The raw stock data is preprocessed to handle missing values, and the date column is converted to a datetime format. The dataset is then sorted by date to maintain the sequence of events.
