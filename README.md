@@ -31,7 +31,9 @@ The evaluation metrics provide insight into how well the model performs on both 
 The project outputs the following metrics to assess the model's performance:
 
 Training Set Mean Squared Error (MSE):
+
 Testing Set Mean Squared Error (MSE)
+
 These metrics help gauge the accuracy of the predictions and the model's generalizability
 
-feel free to use.
+
