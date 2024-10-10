@@ -31,10 +31,15 @@ The project uses a linear regression model as a baseline to predict stock prices
 The steps include:
 
 Splitting the dataset into training and testing sets.
+
 Imputing missing values.
+
 Scaling the features.
+
 Training the model on the training data.
+
 Evaluating the model's performance using Mean Squared Error (MSE).
+
 The evaluation metrics provide insight into how well the model performs on both training and testing data.
 
 The project outputs the following metrics to assess the model's performance:
