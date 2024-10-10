@@ -19,7 +19,9 @@ Bollinger Bands.
 On-Balance Volume (OBV).
 These features capture trends and patterns in the stock data that are useful for prediction.
 
-The project uses a linear regression model as a baseline to predict stock prices. The steps include:
+The project uses a linear regression model as a baseline to predict stock prices. 
+
+The steps include:
 
 Splitting the dataset into training and testing sets.
 Imputing missing values.
