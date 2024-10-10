@@ -11,12 +11,19 @@ Feature Engineering
 Several features are engineered to enhance the predictive power of the model:
 
 Lag Features: Previous stock prices (Close_lag_X).
+
 Simple Moving Averages (SMA) and Exponential Moving Averages (EMA).
+
 Rolling Standard Deviation and Rolling Volume Sum.
+
 Volume Change and Volume Ratio.
+
 Relative Strength Index (RSI).
+
 Bollinger Bands.
+
 On-Balance Volume (OBV).
+
 These features capture trends and patterns in the stock data that are useful for prediction.
 
 The project uses a linear regression model as a baseline to predict stock prices. 
