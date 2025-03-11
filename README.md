@@ -1,4 +1,4 @@
-#Stock Price Prediction Using Machine Learning
+# Stock Price Prediction Using Machine Learning
 
 This project focuses on predicting future stock prices for NASDAQ (NDAQ) using machine learning regression techniques. It demonstrates an end-to-end machine learning pipeline applied to financial time series data. The approach includes data preprocessing, feature engineering, model training, and evaluation. The project is implemented in Python within a Jupyter Notebook environment.
 
