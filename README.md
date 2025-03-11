@@ -8,7 +8,7 @@ The aim of this project is to develop a predictive model that forecasts stock pr
 
 Dataset Details
 
-The dataset `NDAQ_data.csv` contains daily stock price data for NASDAQ. It includes columns such as Date, Open, High, Low, Close, and Volume. The data spans from [INSERT START DATE] to [INSERT END DATE]. Preprocessing includes handling missing values and converting date columns to datetime format.
+The dataset `NDAQ_data.csv` contains daily stock price data for NASDAQ. It includes columns such as Date, Open, High, Low, Close, and Volume. The data spans from 8th Feb 2013 to 7th Feb 2018. Preprocessing includes handling missing values and converting date columns to datetime format.
 
 Methodology
 
@@ -29,6 +29,12 @@ Testing Set Metrics
 - Root Mean Squared Error (RMSE): 0.2660163501481818  
 
 These metrics indicate consistent performance between the training and testing datasets, with minimal overfitting.
+
+A visual comparison between the actual and predicted prices can be seen below
+
+![actual_vs_predicted_scatter](https://github.com/user-attachments/assets/75ed0df5-e773-4a71-a60c-2050b6084c3b)
+
+The scatter plot presents a comparison between the actual stock prices and the prices predicted by the model. The horizontal axis represents the actual prices, while the vertical axis shows the predicted values. The close alignment of the data points along the diagonal line indicates a strong correlation between the two sets of values, demonstrating that the model is performing well in predicting stock prices with a high degree of accuracy. The tight clustering of points around the line suggests minimal error and reliable predictive capability.
 
 Installation and Setup
 
