@@ -30,7 +30,7 @@ Testing Set Metrics
 
 These metrics indicate consistent performance between the training and testing datasets, with minimal overfitting.
 
-A visual comparison between the actual and predicted prices can be seen below
+A visual comparison between the actual and predicted prices can be seen below:
 
 ![actual_vs_predicted_scatter](https://github.com/user-attachments/assets/75ed0df5-e773-4a71-a60c-2050b6084c3b)
 
